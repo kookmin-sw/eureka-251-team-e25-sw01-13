@@ -21,3 +21,5 @@
 심한솔: 번역기 활용해 외국인 여자친구
 고강민: 번역기 활용해 자막없이 영화, 순간이동 활용해 먼 학교 통학 or 먼 회사 1초 만에 출근
 이산: 로봇 검투 경기를 보며 BCI로 회사 없무 처리
+
+<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/19b4eaec-3a33-41e7-b4d2-632afb04a70a" />
