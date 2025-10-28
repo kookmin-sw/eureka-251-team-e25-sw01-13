@@ -79,7 +79,7 @@ Mix & Match
 옛날 로마의 검투를 사람 형태의 로봇이 하는 것
   - 우리가 그리는 미래 그리고 나
 <img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/19b4eaec-3a33-41e7-b4d2-632afb04a70a" />
-심한솔: 번역기 활용해 외국인 여자친구<br />
+심한솔: 번역기 활용해 외국인 친구 만들기<br />
 고강민: 번역기 활용해 자막없이 영화, 순간이동 활용해 먼 학교 통학 or 먼 회사 1초 만에 출근<br />
 이산: 로봇 검투 경기를 보며 BCI로 회사 없무 처리<br />
 - 각오와 소감 나누기 ✔️  
