@@ -83,6 +83,7 @@ Mix & Match
 고강민: 번역기 활용해 자막없이 영화, 순간이동 활용해 먼 학교 통학 or 먼 회사 1초 만에 출근<br />
 이산: 로봇 검투 경기를 보며 BCI로 회사 없무 처리<br />
 [13조 발표자료.pdf](https://github.com/user-attachments/files/23247965/13.pdf)
+https://drive.google.com/file/d/1YHwSnheQgQpZ0a2XwbU2WoDqOQO1IJwY/view?usp=sharing
 - 각오와 소감 나누기 ✔️  
 
 
