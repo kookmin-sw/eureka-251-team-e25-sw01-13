@@ -82,7 +82,7 @@ Mix & Match
 심한솔: 번역기 활용해 외국인 친구 만들기<br />
 고강민: 번역기 활용해 자막없이 영화, 순간이동 활용해 먼 학교 통학 or 먼 회사 1초 만에 출근<br />
 이산: 로봇 검투 경기를 보며 BCI로 회사 없무 처리<br />
-<img width="2245" height="3179" alt="Image" src="https://github.com/user-attachments/assets/e9636f62-f84f-461e-8dbe-08390c344df2" />
+[13조 발표자료.pdf](https://github.com/user-attachments/files/23247965/13.pdf)
 - 각오와 소감 나누기 ✔️  
 
 
